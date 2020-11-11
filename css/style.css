@@ -1,0 +1,28 @@
+body {
+    background-color: gainsboro;
+}
+
+header {
+    background-color: #819F86;
+}
+
+.content_wrap {
+    height: 80vh;
+}
+
+.height_full {
+    height: 100%;
+}
+
+.left {
+    background-color: #f0f8ff;
+}
+
+.right {
+    background-color: #ffb6c1;
+}
+
+footer {
+    height: 100px;
+    background-color: #fffacd;
+}
